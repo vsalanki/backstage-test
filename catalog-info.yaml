@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test-component
+  annotations:
+    backstage.io/code-coverage: enabled
+spec:
+  lifecycle: experimental
+  type: test-repo
+  owner: group
