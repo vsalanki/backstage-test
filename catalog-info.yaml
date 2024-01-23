@@ -4,6 +4,7 @@ metadata:
   name: backstage-test-component
   annotations:
     backstage.io/code-coverage: scm-only
+    github.com/project-slug: 'vsalanki/backstage-test'
 spec:
   lifecycle: experimental
   type: service
