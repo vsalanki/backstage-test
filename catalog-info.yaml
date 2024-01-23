@@ -6,5 +6,5 @@ metadata:
     backstage.io/code-coverage: scm-only
 spec:
   lifecycle: experimental
-  type: test-repo
+  type: service
   owner: group
